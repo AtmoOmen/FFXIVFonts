@@ -1,4 +1,4 @@
-## 鸿蒙黑体 / HarmonyOS Sans SC Bold
+## 鸿蒙黑体 / HarmonyOS Sans SC
 
 来源 / From : https://developer.huawei.com/consumer/cn/design/resource-V1/
 
