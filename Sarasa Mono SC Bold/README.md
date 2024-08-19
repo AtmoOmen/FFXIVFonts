@@ -1,4 +1,4 @@
-## 更纱等距黑体 / Sarasa Mono SC
+## 等距更纱黑体 / Sarasa Mono SC
 
 来源 / From :  [https://github.com/be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
 
