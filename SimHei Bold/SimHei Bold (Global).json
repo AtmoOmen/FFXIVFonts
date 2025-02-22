@@ -1,4 +1,5 @@
 {
+	"exportMapFontLobbyToFont": true,
 	"fontSets": [
 		{
 			"discardStep": 1,
@@ -3788,7 +3789,7 @@
 		},
 		{
 			"discardStep": 1,
-			"expectedTexCount": 3,
+			"expectedTexCount": 4,
 			"faces": [
 				{
 					"elements": [
