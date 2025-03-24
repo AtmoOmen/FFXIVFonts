@@ -1,0 +1,837 @@
+{
+	"exportMapFontLobbyToFont": true,
+	"fontSets": [
+		{
+			"discardStep": 1,
+			"expectedTexCount": 2,
+			"faces": [
+				{
+					"elements": [
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "ChnAXIS",
+								"stretch": 5,
+								"style": 0,
+								"weight": 400
+							},
+							"mergeMode": 0,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 1,
+							"size": 12.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 0,
+								"letterSpacing": 1
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "HarmonyOS Sans SC",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 1,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 14.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 1,
+								"letterSpacing": 0
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "Cascadia Mono",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 2,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 14.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": -1,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										33,
+										43
+									],
+									[
+										45,
+										47
+									],
+									[
+										48,
+										57
+									],
+									[
+										58,
+										58
+									],
+									[
+										60,
+										64
+									],
+									[
+										65,
+										90
+									],
+									[
+										91,
+										96
+									],
+									[
+										97,
+										122
+									],
+									[
+										123,
+										126
+									],
+									[
+										183,
+										183
+									],
+									[
+										8220,
+										8221
+									],
+									[
+										12289,
+										12290
+									],
+									[
+										12304,
+										12305
+									],
+									[
+										65292,
+										65292
+									],
+									[
+										65306,
+										65306
+									]
+								],
+								"horizontalOffset": 1,
+								"letterSpacing": 1
+							}
+						}
+					],
+					"name": "ChnAXIS_120",
+					"previewText": "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~\r\n0英en-US: _The_ (89) quick brown foxes jump over the [01] lazy dogs.\r\n1日ja-JP: _パングラム_(pangram)で[23]つの字体（フォント）をテストします。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。“日”月\"盈\"昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。日月盈昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n6\r\n7\r\n8\r\n9“”\"\"[]{}【】\r\n\r\n\r\n"
+				},
+				{
+					"elements": [
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "ChnAXIS",
+								"stretch": 5,
+								"style": 0,
+								"weight": 400
+							},
+							"mergeMode": 0,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 1,
+							"size": 14.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 0,
+								"letterSpacing": 1
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "HarmonyOS Sans SC",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 1,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 16.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 0,
+								"letterSpacing": 0
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "Cascadia Mono",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 2,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 16.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": -1,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										33,
+										43
+									],
+									[
+										45,
+										47
+									],
+									[
+										48,
+										57
+									],
+									[
+										58,
+										58
+									],
+									[
+										60,
+										64
+									],
+									[
+										65,
+										90
+									],
+									[
+										91,
+										96
+									],
+									[
+										97,
+										122
+									],
+									[
+										123,
+										126
+									],
+									[
+										183,
+										183
+									],
+									[
+										8220,
+										8221
+									],
+									[
+										12289,
+										12290
+									],
+									[
+										12304,
+										12305
+									],
+									[
+										65292,
+										65292
+									],
+									[
+										65306,
+										65306
+									]
+								],
+								"horizontalOffset": 0,
+								"letterSpacing": 1
+							}
+						}
+					],
+					"name": "ChnAXIS_140",
+					"previewText": "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~\r\n0英en-US: _The_ (89) quick brown foxes jump over the [01] lazy dogs.\r\n1日ja-JP: _パングラム_(pangram)で[23]つの字体（フォント）をテストします。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。“日”月\"盈\"昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。日月盈昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n6\r\n7\r\n8\r\n9“”\"\"[]{}【】\r\n\r\n\r\n"
+				},
+				{
+					"elements": [
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "ChnAXIS",
+								"stretch": 5,
+								"style": 0,
+								"weight": 400
+							},
+							"mergeMode": 0,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 1,
+							"size": 18.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 1,
+								"letterSpacing": 1
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "HarmonyOS Sans SC",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 1,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 20.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 1,
+								"letterSpacing": 0
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "Cascadia Mono",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 2,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 20.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": -1,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										33,
+										43
+									],
+									[
+										45,
+										47
+									],
+									[
+										48,
+										57
+									],
+									[
+										58,
+										58
+									],
+									[
+										60,
+										64
+									],
+									[
+										65,
+										90
+									],
+									[
+										91,
+										96
+									],
+									[
+										97,
+										122
+									],
+									[
+										123,
+										126
+									],
+									[
+										183,
+										183
+									],
+									[
+										8220,
+										8221
+									],
+									[
+										12289,
+										12290
+									],
+									[
+										12304,
+										12305
+									],
+									[
+										65292,
+										65292
+									],
+									[
+										65306,
+										65306
+									]
+								],
+								"horizontalOffset": 1,
+								"letterSpacing": 1
+							}
+						}
+					],
+					"name": "ChnAXIS_180",
+					"previewText": "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~\r\n0英en-US: _The_ (89) quick brown foxes jump over the [01] lazy dogs.\r\n1日ja-JP: _パングラム_(pangram)で[23]つの字体（フォント）をテストします。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。“日”月\"盈\"昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。日月盈昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n6\r\n7\r\n8\r\n9“”\"\"[]{}【】\r\n\r\n\r\n"
+				},
+				{
+					"elements": [
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "ChnAXIS",
+								"stretch": 5,
+								"style": 0,
+								"weight": 400
+							},
+							"mergeMode": 0,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 1,
+							"size": 36.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 0,
+								"letterSpacing": 1
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "HarmonyOS Sans SC",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 1,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 40.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": 0,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										0,
+										1114111
+									]
+								],
+								"horizontalOffset": 1,
+								"letterSpacing": 0
+							}
+						},
+						{
+							"gamma": 1.0,
+							"lookup": {
+								"name": "Cascadia Mono",
+								"stretch": 5,
+								"style": 0,
+								"weight": 700
+							},
+							"mergeMode": 2,
+							"renderSpecific": {
+								"directwrite": {
+									"gridFitMode": 2,
+									"measureMode": 1,
+									"renderMode": 4
+								},
+								"empty": {
+									"ascent": 0,
+									"lineHeight": 0
+								},
+								"freetype": {
+									"forceAutohint": false,
+									"noAutohint": false,
+									"noBitmap": false,
+									"noHinting": false,
+									"renderMode": 1
+								}
+							},
+							"renderer": 3,
+							"size": 38.0,
+							"transformationMatrix": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							],
+							"wrapModifiers": {
+								"baselineShift": -2,
+								"codepointReplacements": {},
+								"codepoints": [
+									[
+										33,
+										43
+									],
+									[
+										45,
+										47
+									],
+									[
+										48,
+										57
+									],
+									[
+										58,
+										58
+									],
+									[
+										60,
+										64
+									],
+									[
+										65,
+										90
+									],
+									[
+										91,
+										96
+									],
+									[
+										97,
+										122
+									],
+									[
+										123,
+										126
+									],
+									[
+										183,
+										183
+									],
+									[
+										8220,
+										8221
+									],
+									[
+										12289,
+										12290
+									],
+									[
+										12304,
+										12305
+									],
+									[
+										65292,
+										65292
+									],
+									[
+										65306,
+										65306
+									]
+								],
+								"horizontalOffset": 2,
+								"letterSpacing": 1
+							}
+						}
+					],
+					"name": "ChnAXIS_360",
+					"previewText": "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~\r\n0英en-US: _The_ (89) quick brown foxes jump over the [01] lazy dogs.\r\n1日ja-JP: _パングラム_(pangram)で[23]つの字体（フォント）をテストします。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。“日”月\"盈\"昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n2中zh-CN: _(天)_地[玄]黄，【宇】宙（洪）荒。日月盈昃，辰宿列张。寒来暑往，秋收冬藏。闰余成岁，律吕调阳。\r\n6\r\n7\r\n8\r\n9“”\"\"[]{}【】\r\n\r\n\r\n"
+				}
+			],
+			"sideLength": 4096,
+			"texFilenameFormat": "font_chn_{}.tex"
+		}
+	]
+}
